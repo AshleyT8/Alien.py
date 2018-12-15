@@ -104,7 +104,6 @@ class MyGame(arcade.Window):
         self.bullet_list = None
         self.enemy_list = None
 
-
         # Set up the player info
         self.player_sprite = None
         self.score = 0
