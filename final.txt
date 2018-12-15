@@ -1,0 +1,11 @@
+Members: Ashley Tung, Xintong Wang
+
+#We'd like to use a euro for this
+
+Game: Pikachu's Rough 'em Up!
+
+In this game, the player will use the arrow keys to move around and the WASD keys to shoot bullets at the enemies. As the game goes on, the enemies will get faster and faster and the game gets more difficult. The game ends when Pikachu collides with an enemy.
+
+Credits: Pikachu from Nintendo Pokemon
+Box, slime from arcade.academy
+Bullet/arrow from Kyrises's RPG pack https://opengameart.org/content/kyrises-free-16x16-rpg-icon-pack 
